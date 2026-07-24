@@ -8,7 +8,7 @@
   [![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue.svg?logo=kotlin)](http://kotlinlang.org)
   [![LSPosed](https://img.shields.io/badge/LSPosed-Supported-brightgreen.svg)](https://github.com/LSPosed/LSPosed)
 
-  [🇬🇧 English](README.md) | [🇷🇺 Русский](README_RU.md)
+  [English](README.md) | [Русский](README_RU.md)
 </div>
 
 ---
