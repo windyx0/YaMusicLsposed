@@ -48,4 +48,7 @@
 
 ## License
 
-This project is created for educational purposes. Please respect copyright laws and use this module only to download content to which you have legal access.
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code. See the [LICENSE](LICENSE) file for more details.
+
+*Disclaimer: This project is created for educational purposes. Please respect copyright laws and use this module only to download content to which you have legal access.*
+
