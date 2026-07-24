@@ -46,6 +46,6 @@
 - [Telegram DM](https://t.me/Windyx0)
 - [TikTok](https://www.tiktok.com/@windyx_edits)
 
-## 📄 License
+## License
 
 This project is created for educational purposes. Please respect copyright laws and use this module only to download content to which you have legal access.
