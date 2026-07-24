@@ -15,7 +15,7 @@
 
 **YaMusicLsposed** is an Xposed/LSPosed module that adds music downloading capabilities and advanced features to the official Yandex Music application. The module works entirely "under the hood" and integrates seamlessly into the app's UI with a stunning Liquid Glass design.
 
-## ✨ Features
+## Features
 
 * **Direct MP3 Download**: Download individual tracks, entire albums, or playlists in original quality.
 * **Embedded Metadata & Covers**: Tracks are saved with correct ID3 tags (Title, Artist, Album) and high-quality album art embedded.
@@ -24,7 +24,7 @@
 * **Liquid Glass UI**: Premium settings and overlay menus built with Jetpack Compose featuring a translucent glass effect, fluid animations, and native back gesture support.
 * **Active Downloads Monitor**: A convenient real-time tracker showing the progress of each individual track currently being downloaded.
 
-## 🚀 Installation
+## Installation
 
 1. Ensure your device is rooted with **Magisk / KernelSU** and has the **LSPosed** framework installed.
 2. Install the [Yandex Music](https://play.google.com/store/apps/details?id=ru.yandex.music) app from Google Play.
@@ -33,14 +33,14 @@
 5. Open the LSPosed Manager, enable the module, and check the "Yandex Music" app.
 6. Restart Yandex Music (or force stop it from system settings).
 
-## 💡 Usage
+## Usage
 
 * **Download a track**: Tap the download icon in the player (next to playback controls).
 * **Download a playlist/album**: Tap the download icon on the playlist or album page.
 * **Settings**: Long-press the single-track download button. Here you can configure the save folder, audio quality, and token.
 * **Active Downloads**: Long-press the playlist/album download button. This opens a beautiful overlay showing all currently downloading tracks.
 
-## 📞 Contact Me (Windyx0)
+## Contact Me (Windyx0)
 
 - [Telegram Channel](https://t.me/WindyxChannel)
 - [Telegram DM](https://t.me/Windyx0)
