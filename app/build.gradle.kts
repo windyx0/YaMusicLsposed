@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.windyx0.yamusiclsposed"
+    namespace = "io.github.windyx0.yamusiclsposed"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.windyx0.yamusiclsposed"
+        applicationId = "io.github.windyx0.yamusiclsposed"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
