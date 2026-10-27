@@ -1,4 +1,4 @@
-package com.windyx0.yamusiclsposed
+package io.github.windyx0.yamusiclsposed
 
 import android.app.Activity
 import android.graphics.Bitmap
