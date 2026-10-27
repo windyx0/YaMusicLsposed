@@ -1,4 +1,4 @@
-package com.windyx0.yamusiclsposed
+package io.github.windyx0.yamusiclsposed
 
 import android.view.View
 import androidx.lifecycle.Lifecycle
