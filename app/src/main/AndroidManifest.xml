@@ -23,7 +23,7 @@
             
         <provider
             android:name=".PrefsProvider"
-            android:authorities="com.windyx0.yamusiclsposed.prefs"
+            android:authorities="io.github.windyx0.yamusiclsposed.prefs"
             android:exported="true" />
             
     </application>
